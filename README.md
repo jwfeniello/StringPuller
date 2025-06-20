@@ -20,13 +20,7 @@ game\NPUA80959\USRDIR\data\sound\stream
 
 ## Usage
 
-1. Edit the folder path in `stringpuller.py`:
-   ```python
-   self.folder_path = r"path/to/your/sgb/files"
-   ```
-
-2. Run:
-   ```bash
+1. Run:
    python stringpuller.py
    ```
 
